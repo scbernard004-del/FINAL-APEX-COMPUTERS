@@ -1,0 +1,36 @@
+APEX COMPUTERS v2.4.0 — SIMPLE GITHUB + VERCEL UPLOAD
+
+FOLDERS: only 5 folders total
+- api
+- media-01
+- media-02
+- media-03
+- media-04
+
+UPLOAD
+1. Open your GitHub repository.
+2. Upload all loose files from this main folder.
+3. Upload the `api` folder.
+4. Upload `media-01`, `media-02`, `media-03`, and `media-04` one folder at a time.
+5. In Vercel, import the repository and choose Framework Preset: Other.
+6. No build command and no output directory are required.
+
+MEDIA COUNTS
+- media-01: 99 files
+- media-02: 99 files
+- media-03: 99 files
+- media-04: 98 files
+
+CONTACTS LOCKED IN THIS RELEASE
+- WhatsApp / orders: 0746 584 214 / +255746584214
+- Notification Gmail: scbernard004@gmail.com
+
+SEO AFTER DEPLOYMENT
+- Open https://YOUR-DOMAIN/sitemap.xml and confirm it loads.
+- Open https://YOUR-DOMAIN/robots.txt and confirm it loads.
+- Add your website to Google Search Console and submit /sitemap.xml.
+- Add/import the site in Bing Webmaster Tools and submit /sitemap.xml.
+- See SEARCH-ENGINE-SETUP.txt for the simple step-by-step checklist.
+
+GMAIL NOTIFICATIONS
+Store SMTP credentials only in Vercel Environment Variables. Never commit a Gmail App Password to GitHub.
